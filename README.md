@@ -60,8 +60,9 @@ The interviewer will send you an email with AWS credentials, which you should ex
 
 ```sh
 export CODE_PREFIX=****
-export AWS_SECRET_ACCESS_KEY=****
 export AWS_ACCESS_KEY_ID=****
+export AWS_SECRET_ACCESS_KEY=****
+export AWS_DEFAULT_REGION=****
 ```
 
 Now run:
